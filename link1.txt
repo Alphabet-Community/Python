@@ -1,0 +1,3 @@
+Some Useful link for Python 3, download and start reading... :
+https://www.pdfdrive.com/the-python-3-standard-library-by-example-e176213017.html
+https://www.davekuhlman.org/python_book_01.pdf
